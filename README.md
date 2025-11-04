@@ -14,7 +14,7 @@
 ---
 
 ## 🔭 About Me
-I am a first-year BIT undergraduate at the University of Colombo School of Computing (UCSC) and a trainee software developer at OpenArc System Management. I enjoy building practical web applications and learning new frameworks, libraries, and tools — especially in web development and back-end systems.
+I am currently pursuing a Bachelor of Information Technology (BIT) at the University of Colombo School of Computing (UCSC) and working as a Trainee Software Developer at OpenArc System Management. I am passionate about designing and developing efficient, user-focused web applications and continuously expanding my technical expertise in modern frameworks, libraries, and back-end technologies.
 
 ---
 
@@ -26,18 +26,9 @@ I am a first-year BIT undergraduate at the University of Colombo School of Compu
 
 ---
 
-## 💼 Experience
-**Software Developer (Trainee)** — *OpenArc System Management*  
-- Contributed to the Conversion Project migrating VBA application to Laravel.
-- Maintaining and enhancing the in-house employee management system (myTrack) with MySQL. 
-- Built CRUD workflows, authentication flows, and UI components using HTML/CSS/JS and Laravel back-end logic.
-
----
-
 ## 🎓 Education
 **Bachelor of Information Technology (BIT)** — *UCSC (University of Colombo School of Computing)* — Undergraduate
 **Industrial Diploma in Software Development (IDSD)** — *OpenArc Campus* — Completed with the Distinction pass.
-
 
 ---
 
