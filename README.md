@@ -27,8 +27,8 @@ I am currently pursuing a Bachelor of Information Technology (BIT) at the Univer
 ---
 
 ## 🎓 Education
-**Bachelor of Information Technology (BIT)** — *UCSC (University of Colombo School of Computing)* — Undergraduate
-**Industrial Diploma in Software Development (IDSD)** — *OpenArc Campus* — Completed with the Distinction pass.
+- **Bachelor of Information Technology (BIT)** — *UCSC (University of Colombo School of Computing)* — Undergraduate
+- **Industrial Diploma in Software Development (IDSD)** — *OpenArc Campus* — Completed with the Distinction pass.
 
 ---
 
